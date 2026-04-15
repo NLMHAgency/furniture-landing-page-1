@@ -3,8 +3,8 @@ const repo = 'furniture-landing-page-1'
 
 const nextConfig = {
   output: 'export',
-  basePath: `/${repo}`,
-  assetPrefix: `/${repo}/`,
+  //basePath: `/${repo}`,
+  //assetPrefix: `/${repo}/`,
   trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
